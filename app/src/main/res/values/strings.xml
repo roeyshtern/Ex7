@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ex7</string>
+    <string name="intro">Hello, this app</string>
+    <string name="button">Register</string>
+    <string name="First_name">First name: </string>
+    <string name="Last_name">Last name</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Button_text_activity2">Send back</string>
+    <string name="ToastMessage">You must fill all the fields!</string>
+</resources>
